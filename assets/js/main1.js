@@ -97,7 +97,8 @@
 				}, settings.delay);
 
 		})();
-	//定时黑白	
+	//定时黑白
+	//Github:https://github.com/Whitestorys	
     ncov_gray();
 
     function ncov_gray() {

@@ -94,7 +94,7 @@ $(document).ready(function () {
 		$(".js-avatar").addClass("show");
 	}
 });
-
+//Github:https://github.com/Whitestorys
 $('.btn-mobile-menu__icon').click(function() {
     if ($('.navigation-wrapper').css('display') == "block") {
       $('.navigation-wrapper').on('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend', function() {
